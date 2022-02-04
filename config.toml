@@ -1,4 +1,5 @@
-baseURL = 'http://netguardian.io/'
+#baseURL = 'http://netguardian.io/'
+baseURL = 'https://cyberatz.github.io/'
 languageCode = 'en-us'
 title = 'My Site'
 #theme = "ananke"
