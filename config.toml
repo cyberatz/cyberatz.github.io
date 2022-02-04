@@ -1,5 +1,5 @@
-baseURL = 'http://cyberatz.github.io/'
+baseURL = 'http://netguardian.io/'
 languageCode = 'en-us'
-title = 'My New Site'
+title = 'My Site'
 #theme = "ananke"
 theme = "PaperMod"
