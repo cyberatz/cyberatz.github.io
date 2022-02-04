@@ -5,3 +5,8 @@ title = 'My Site'
 #theme = "ananke"
 #theme = "PaperMod"
 theme = "paper"
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  #twitter = 'YOUR_TWITTER_ID'                # twitter.com/YOUR_TWITTER_ID
+  github = 'cyberatz'
