@@ -2,4 +2,5 @@ baseURL = 'http://netguardian.io/'
 languageCode = 'en-us'
 title = 'My Site'
 #theme = "ananke"
-theme = "PaperMod"
+#theme = "PaperMod"
+theme = "paper"
