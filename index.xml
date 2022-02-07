@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Site</title>
+    <title>netguardian.io</title>
     <link>https://cyberatz.github.io/</link>
-    <description>Recent content on My Site</description>
+    <description>Recent content on netguardian.io</description>
     <image>
       <url>https://cyberatz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://cyberatz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Feb 2022 11:44:15 +0100</lastBuildDate><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MD Test Post</title>
-      <link>https://cyberatz.github.io/posts/test/</link>
-      <pubDate>Sat, 05 Feb 2022 11:44:15 +0100</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/test/</guid>
-      <description>MD Test
-Test file with some characteristics (Header 1) {{TOC}}
-Usual markdown objects Text in paragraph Here there is some text in italic and some in bold and link to my personal page Personal Page.
-We can also add some image .
-And continue with some different ==highlights== in the text, or if you want to correct a partner, you can strikethrough some text.
-Horizontal Rule  Lists Bullet list (*)   List</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://cyberatz.github.io/posts/new-post/</link>
-      <pubDate>Fri, 04 Feb 2022 11:50:15 +0100</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/new-post/</guid>
-      <description>Testing 1 2 3 just some random stuff
-Normal Table    Header Column 1 Column 2 Column 3     1. Row is is is   2. Row left nicely right   3. Row aligned centered aligned    </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://cyberatz.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 04 Feb 2022 11:41:15 +0100</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/my-first-post/</guid>
-      <description>Some random stuff here ddfasdasdas
-and more sdfsdfsd fsdfsdf</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://cyberatz.github.io/posts/page/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/page/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://cyberatz.github.io/posts/page.md/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/page.md/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
