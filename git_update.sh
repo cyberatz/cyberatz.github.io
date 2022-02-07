@@ -1,11 +1,17 @@
 #!/bin/sh
 export USER=pid
+export fileloc=/Users/pid/cyberatz.github.io
+export PATH=/usr/gnu/bin:/usr/local/bin:/bin:/usr/bin:.
+set -xe
 
-git pull
-git add --all
+cd $fileloc
+/usr/bin/git pull
+/usr/bin/git add --all
+
 commit=$(date +%Y%M%d-%H%m%S)
-git commit -m "Autoupdate: $commit"
-git push -u origin main
+
+/usr/bin/git commit -m "Autoupdate: $commit"
+/usr/bin/git push -u origin main
 
 
 
