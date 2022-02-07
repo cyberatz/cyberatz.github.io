@@ -1,4 +1,6 @@
 #!/bin/sh
+export USER=pid
+
 git pull
 git add --all
 commit=$(date +%Y%M%d-%H%m%S)
