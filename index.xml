@@ -10,21 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 11:50:15 +0100</lastBuildDate><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://cyberatz.github.io/posts/new-post/</link>
-      <pubDate>Fri, 04 Feb 2022 11:50:15 +0100</pubDate>
-      
-      <guid>https://cyberatz.github.io/posts/new-post/</guid>
-      <description>Testing 1 2 3 just some random stuff
-Normal Table    Header Column 1 Column 2 Column 3     1. Row is is is   2. Row left nicely right   3. Row aligned centered aligned    </description>
-    </item>
-    
+    <lastBuildDate>Sat, 05 Feb 2022 11:44:15 +0100</lastBuildDate><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MD Test Post</title>
       <link>https://cyberatz.github.io/posts/test/</link>
-      <pubDate>Fri, 04 Feb 2022 11:42:15 +0100</pubDate>
+      <pubDate>Sat, 05 Feb 2022 11:44:15 +0100</pubDate>
       
       <guid>https://cyberatz.github.io/posts/test/</guid>
       <description>MD Test
@@ -33,6 +23,16 @@ Usual markdown objects Text in paragraph Here there is some text in italic and s
 We can also add some image .
 And continue with some different ==highlights== in the text, or if you want to correct a partner, you can strikethrough some text.
 Horizontal Rule  Lists Bullet list (*)   List</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://cyberatz.github.io/posts/new-post/</link>
+      <pubDate>Fri, 04 Feb 2022 11:50:15 +0100</pubDate>
+      
+      <guid>https://cyberatz.github.io/posts/new-post/</guid>
+      <description>Testing 1 2 3 just some random stuff
+Normal Table    Header Column 1 Column 2 Column 3     1. Row is is is   2. Row left nicely right   3. Row aligned centered aligned    </description>
     </item>
     
     <item>
