@@ -47,6 +47,15 @@ and more sdfsdfsd fsdfsdf</description>
     
     <item>
       <title>My 1st post</title>
+      <link>https://cyberatz.github.io/posts/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cyberatz.github.io/posts/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
       <link>https://cyberatz.github.io/posts/page.md/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
