@@ -52,7 +52,8 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    #icon: /apple-touch-icon.png
+    icon: https://img.icons8.com/color/152x152/anonymous-mask.png
     iconHeight: 35
 
   # profile-mode
@@ -73,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: ... and Welcome!
 
   socialIcons:
     #- name: twitter
@@ -81,7 +82,7 @@ params:
     #- name: stackoverflow
     #  url: "https://stackoverflow.com"
     - name: github
-      url: "https://cyberatz.github.com/"
+      url: "https://github.com/cyberatz"
 
   #analytics:
   #  google:
