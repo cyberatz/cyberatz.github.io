@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Feb 2022 11:08:47 +0000</lastBuildDate><atom:link href="https://cyberatz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome new post system!</title>
+      <link>https://cyberatz.github.io/posts/awesome-new-post-system-2022-02-07/</link>
+      <pubDate>Mon, 07 Feb 2022 11:08:47 +0000</pubDate>
+      
+      <guid>https://cyberatz.github.io/posts/awesome-new-post-system-2022-02-07/</guid>
+      <description>Awesome new post system!</description>
+    </item>
+    
+    <item>
+      <title>Something entirely random</title>
+      <link>https://cyberatz.github.io/posts/something-entirely-random-2022-02-07/</link>
+      <pubDate>Mon, 07 Feb 2022 10:40:27 +0000</pubDate>
+      
+      <guid>https://cyberatz.github.io/posts/something-entirely-random-2022-02-07/</guid>
+      <description>Something entirely random</description>
+    </item>
+    
     <item>
       <title>My 1st post</title>
       <link>https://cyberatz.github.io/posts/page/</link>
